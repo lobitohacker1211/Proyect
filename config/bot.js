@@ -4,7 +4,7 @@ module.exports = {
         success: ':white_check_mark:',
     },
     discord: {
-        token: 'Nzg2MDIxMzcxODIxMDMxNTAy.X9AVcg.DQakAUYexTexkCqWzIkjcR6inTs',
+        token: 'TOKEN',
         prefix: 'l!',
     },
 };
