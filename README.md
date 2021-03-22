@@ -1,4 +1,4 @@
 # Projecto de lobo
 
 
-# Para instalar usa con npm `npm install`
+# Para instalar usa`npm install`
